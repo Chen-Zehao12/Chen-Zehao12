@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Chen Zehao
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence
